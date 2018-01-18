@@ -1,0 +1,51 @@
+.slider-container {
+  background-color: black;
+  height: 90vh;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.container-image {
+  background-color: blue;
+  height: 70vh;
+  margin: 0 auto;
+  width: 90%;
+}
+
+ .image {
+  border: 3px solid gold;
+  height: 100%;
+}
+
+.image-hide {
+  display: none;
+}
+
+
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+
+.container-btn {
+  margin: 4% 0;
+  text-align: center;
+}
+
+.btn, .prev, .next {
+  background-color: #858585;
+  border-radius: 50px;
+  display: inline-block;
+  height: 3vh;
+  width: 3vh;
+}
+
+.active {
+  background-color: blue;
+}
+
+.a {
+  background-color: blue;
+}
